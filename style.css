@@ -304,7 +304,7 @@ body{
     align-items: flex-start;
     /* text-align: center; */
     background-image: url(Image/banner/b17.jpg);
-    min-width: 570px;
+    min-width: 550px;
     height: 50vh;
     background-size: cover;
     background-position: center;
